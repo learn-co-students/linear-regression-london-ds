@@ -34,3 +34,20 @@ By the end of the lesson, the student should be able to:
 * [ ] Explain what a `dummy coded` variable is in the context of linear regression 
 * [ ] Interpret the coefficients, R2, p values, confidence intervals of each predictor variable 
 * [ ] Explain what it means for observations to be independent 
+
+## Lesson Outlines
+
+> 90 Minutes; 45 minute break 
+
+> Coming Soon  
+
+> 90 Minutes; 45 min break 
+
+* Review and New Concepts	
+* Define Terms
+	* R2 
+	* Coeffeient Table 
+	* Categorical Predictors
+* Assumptions
+* Break
+* Multiple Regression Notebook 
