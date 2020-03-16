@@ -8,7 +8,6 @@
 
 ## Learning Goals 
 
-
 ### Introduction to Linear Regression 
 
 Student should be able to:
@@ -22,13 +21,16 @@ Student should be able to:
 * [ ] Describe what the slope of the model represents
 * [ ] Run a linear regression model using `statsmodels` with a singl continuous IV.
 
-### Multiple Linear Regression 
+### Multiple Linear Regression + Assumptions 
 
-> Coming Soon! 
+By the end of the lesson, the student should be able to:
 
-### Linear Regression Assumptions 
-
-> Coming Soon! 
-
-
-
+* [ ] Run a multiple linear regression model using `statsmodels`
+* [ ] Explain how to interpret a coeffecient in context of multiple regression 
+* [ ] Explain how the idea of a hyperplane relates to bi-variatle multiple regression  
+* [ ] Run a multiple linear regression model using `statsmodels` with multiple continous variables 
+* [ ] Run a multiple linear regression model using `statsmodels` with multiple continous and categorical variables.
+* [ ] Explain what a `dummy coded` variable is in the context of linear regression 
+* [ ] Interpret the coeffecients, R2, p values, confidence intervals of each predictor variable 
+* [ ] Explain what it means for observations to be independent 
+* [ ] Identify situations in which you might encounter  
